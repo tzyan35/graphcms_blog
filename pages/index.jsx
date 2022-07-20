@@ -7,7 +7,7 @@ const Home = ({ posts }) => {
   return (
     <div className="container mx-auto px-10 mb-8 ">
       <Head>
-        <title>CMS Blog</title>
+        <title>TechRead</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <FeaturedPosts/>
